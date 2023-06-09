@@ -1,0 +1,33 @@
+name: sneakers_hub
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: 3.0.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.0.12
+  google_fonts: ^5.0.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets: 
+    - assets/Jordan1.png
+    - assets/Nocta.png
+    - assets/Clot.png
+    - assets/Campus00s.png
+    - assets/Jordan4.png
+    - assets/logo.png
+    - assets/Jordan1Collage.png
+    - assets/Jordan4Collage.png
+    - assets/CampusCollage.png
+    - assets/ColtCollage.png
+    - assets/NoctaCollage.png
